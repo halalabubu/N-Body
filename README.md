@@ -17,3 +17,6 @@ A Complete rewrite of the <a href="https://github.com/halalabubu/N-Body-Simulati
 <p>OPENGL</p>
 <p>GLFW</p>
 <p>IMGUI</p>
+
+
+<img src="https://user-images.githubusercontent.com/35517078/185715571-e1cf60e2-d20d-493b-a3aa-291ec7c1ab0c.png" width="100%"></img>
