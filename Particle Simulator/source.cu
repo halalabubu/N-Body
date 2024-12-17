@@ -206,7 +206,7 @@ int main()
 		ImGui_ImplGlfw_NewFrame();
 		ImGui::NewFrame();
 
-		ImGui::Begin("Eat my smelly ass");
+		ImGui::Begin("Nope");
 		ImGui::Text("Please?");
 		ImGui::Checkbox("Pause", &pause);
 		ImGui::SliderFloat("Delta", &delta, 0.0001f, 0.1f);
